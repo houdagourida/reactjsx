@@ -1,0 +1,20 @@
+.red{
+  color: red;
+  text-align: center;
+}
+.image{
+    display: flex;
+    width: 250px;
+    right: 250px;
+}
+.cloor{
+  display: block;
+  position: absolute;
+  justify-content: center;
+  
+}
+.grid-item{
+  display: flex;
+  grid-column-start: 3;
+  grid-column-end: 3;
+}
